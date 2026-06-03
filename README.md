@@ -7,7 +7,7 @@ This course will introduce basic concepts of causal inference. The experimental 
 Course prerequisites: Students should have completed at least one undergraduate statistics class at the level of Stats 250. Please note by completing the Statistics Entrance assessment, you have waived this prerequisite.
 
 ## Required Textbook
-- Mastering' Metrics: The Path From Cause to Effect. Princeton University Press, 2014. Joshua D. Angrist and Jörn-Steffen Pischke. You can purchase the book on  AmazonLinks to an external site. (about $24). See the book’s  websiteLinks to an external site. for additional resources.
+- *Mastering' Metrics: The Path From Cause to Effect.* Princeton University Press, 2014. Joshua D. Angrist and Jörn-Steffen Pischke. You can purchase the book on  AmazonLinks to an external site. (about $24). See the book’s  websiteLinks to an external site. for additional resources.
 - We have also put together a Manual for Data Assignments and a series of tutorial videos to aid you in your data assignments. These can be found on the "Resources" page in Module 0.
 
 ## Learning Outcomes
